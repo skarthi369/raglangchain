@@ -1,0 +1,19 @@
+Machine Learning: A subset of artificial intelligence that focuses on developing systems that can learn from and make decisions based on data.
+
+Deep Learning: A subset of machine learning that uses neural networks with many layers to process complex patterns and relationships in data.
+
+Neural Networks: Computing systems inspired by the human brain's neural structure, designed to recognize patterns and learn from examples.
+
+Natural Language Processing (NLP): The branch of AI that enables computers to understand, interpret, and generate human language.
+
+Computer Vision: The field of AI that enables computers to interpret and understand visual information from the world.
+
+Reinforcement Learning: A type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize rewards.
+
+Transfer Learning: A machine learning technique where knowledge gained from one task is applied to a different but related task.
+
+Generative AI: AI systems that can create new content, such as text, images, or music, based on learned patterns.
+
+Large Language Models (LLMs): Advanced AI models trained on vast amounts of text data to understand and generate human language.
+
+RAG (Retrieval-Augmented Generation): A technique that combines retrieval of relevant information with generative AI to produce more accurate and contextual responses. 
