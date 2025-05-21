@@ -1,4 +1,6 @@
 # RAG Chatbot with LangChain and Grok
+![image](https://github.com/user-attachments/assets/1a20ea6b-5ab7-4882-8dd9-95bd6d490885)
+
 
 A powerful RAG (Retrieval-Augmented Generation) chatbot that uses LangChain for document processing and Grok's Llama model for generating responses. The chatbot can process various file formats and provide intelligent responses based on the content.
 
