@@ -2,7 +2,7 @@
 venv/
 my_env/
 env/
-.env
+.env/
 
 # Python cache files
 __pycache__/
@@ -19,6 +19,9 @@ build/
 *.so
 *.dll
 *.dylib
+*.lib
+torch/
+chromadb_rust_bindings/
 
 # IDE specific files
 .vscode/
@@ -28,4 +31,13 @@ build/
 
 # OS specific files
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Project specific
+data/
+*.pdf
+*.docx
+*.xlsx
+*.csv
+*.json
+*.feather 
